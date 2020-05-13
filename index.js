@@ -1,4 +1,5 @@
 // write your code below!
-function happyHolidaysTo(string) {
+var HappyHolidays = "Happy holidays!"
+function happyHolidays(string) {
   console.log("`Happy holidays!`")
 }
